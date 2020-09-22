@@ -1,0 +1,1 @@
+g++ exact.cpp -O3 -o exact
